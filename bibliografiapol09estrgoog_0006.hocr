@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./bibliografiapol09estrgoog_0006.png"; bbox 0 0 3600 5850; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 14 49 1778 230">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 14 49 1778 230">
+     <span class='ocr_line' id='line_1_1' title="bbox 14 49 1778 230; baseline -0.007 -64"><span class='ocrx_word' id='word_1_1' title='bbox 14 57 198 230; x_wconf 43' lang='grc' dir='ltr'>μή</span> <span class='ocrx_word' id='word_1_2' title='bbox 1686 49 1778 158; x_wconf 56' lang='grc' dir='ltr'>ἰδ’</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 78 523 1700 610">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 78 523 1700 610">
+     <span class='ocr_line' id='line_1_2' title="bbox 78 523 1700 610; baseline -0.004 -45"><span class='ocrx_word' id='word_1_3' title='bbox 78 541 115 610; x_wconf 49' lang='lat'>7(</span> <span class='ocrx_word' id='word_1_4' title='bbox 1669 523 1700 558; x_wconf 51' lang='grc' dir='ltr'><em>υ</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 130 637 1616 902">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 130 637 1616 902">
+     <span class='ocr_line' id='line_1_3' title="bbox 130 637 1616 902; baseline 0.002 -8"><span class='ocrx_word' id='word_1_5' title='bbox 130 637 1030 898; x_wconf 72' lang='lat' dir='ltr'>BIBLIOGRAFIA</span> <span class='ocrx_word' id='word_1_6' title='bbox 1125 639 1616 902; x_wconf 72' lang='lat' dir='ltr'><strong>POLSKA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 689 1192 1613 1336">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 689 1192 1613 1336">
+     <span class='ocr_line' id='line_1_4' title="bbox 689 1192 1613 1336; baseline -0.002 -3"><span class='ocrx_word' id='word_1_7' title='bbox 689 1210 829 1334; x_wconf 88' lang='grc' dir='ltr'>ΤΟΜ</span> <span class='ocrx_word' id='word_1_8' title='bbox 867 1209 1051 1336; x_wconf 86' lang='lat' dir='ltr'>XVlll.</span> <span class='ocrx_word' id='word_1_9' title='bbox 1426 1192 1522 1298; x_wconf 65' lang='lat' dir='ltr'><em>W</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 1587 1241 1613 1308; x_wconf 69' lang='lat'>0</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 491 1598 1253 1730">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 491 1598 1253 1730">
+     <span class='ocr_line' id='line_1_5' title="bbox 491 1598 1253 1730; baseline 0 -1"><span class='ocrx_word' id='word_1_11' title='bbox 491 1598 864 1730; x_wconf 74' lang='lat' dir='ltr'>STOLEcffi</span> <span class='ocrx_word' id='word_1_12' title='bbox 901 1621 1253 1729; x_wconf 81' lang='lat' dir='ltr'>xv-xvffl.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 1804 5850">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 1804 5850">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1804 5850; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 0 0 1804 5850; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
